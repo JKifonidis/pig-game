@@ -6,4 +6,5 @@ Link to the game at GitHub Pages:
 https://jkifonidis.github.io/pig-game/
 
 Feel free to comment and thank you for visiting!
+
 Janis
