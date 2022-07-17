@@ -5,5 +5,5 @@ This is a part of the course :The Complete JavaScript Course 2022: From Zero to 
 Link to the game at GitHub Pages:
 https://jkifonidis.github.io/pig-game/
 
-Feel free to comment, and thank you for visiting!
+Feel free to comment and thank you for visiting!
 Janis
